@@ -7,6 +7,9 @@ import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.view.View;
 
+/**
+ * 引导页
+ */
 public class FlashActivity extends AppCompatActivity {
 
     @Override
