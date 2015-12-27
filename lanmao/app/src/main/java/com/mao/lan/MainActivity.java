@@ -45,6 +45,7 @@ public class MainActivity extends AppCompatActivity
 
         /*v2.0*/
         NavigationView navigationView = (NavigationView) findViewById(R.id.nav_view);
+        /*增加一句话*/
         navigationView.setNavigationItemSelectedListener(this);
     }
 
